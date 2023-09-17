@@ -1,0 +1,7 @@
+This is an example .txt file for pre assignment #2.
+Hope that every student could PASS this course with flying colors.
+Truly learn the skills to handle the courses ahead.
+Think as a programmer.
+And, the most importantly, have fun along this journey.
+
+The deadline of this assignment is 09/18.
