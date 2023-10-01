@@ -1,0 +1,7 @@
+openpyxl
+numpy
+pandas
+matplotlib
+requests
+yfinance
+pandas_datareader
