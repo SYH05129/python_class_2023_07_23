@@ -20,6 +20,6 @@ plt.ylabel('solar radiation[W/m$^2$]')
 #plt.xlim(0,1440)
 #plt.xticks(x_ticks, x_labels)
 plt.title('PSP_20081005 @25.01476, 121.53898')
-filename=hw2_1.png
+filename='hw2_1.png'
 plt.savefig(filename)
 plt.show()
